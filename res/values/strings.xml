@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calles La Plata</string>
+    	<string name="calcular">Calcular</string>
+	<string name="calle">Calle</string>
+	<string name="numero">Numero</string>
+	<string name="label">adonde queres ir?</string>
+	<string name="direccion_invalida">Direccion Invalida</string>
+	<string name="no_existe_direccion">La direccion no existe.</string>
+	<string name="la_direccion_buscada"> la direccion buscada se encuentra en </string>
+	<string name="entre"> entre </string>
+	<string name="y"> y </string>
+</resources>
